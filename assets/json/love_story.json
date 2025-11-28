@@ -1,0 +1,107 @@
+[
+  {
+    "lyric": "Pero ",
+    "startTime": 0.0,
+    "charDelay": 0.070,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "baby ",
+    "startTime": 0.44014978408813477,
+    "charDelay": 0.070,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "hindi ",
+    "startTime": 0.9197812080383301,
+    "charDelay": 0.070,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "uubra",
+    "startTime": 1.3763701915740967,
+    "charDelay": 0.070,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "kahit lumuha ka",
+    "startTime": 2.8885135650634766,
+    "charDelay": 0.080,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "Pasensya kung gan'to",
+    "startTime": 4.232534170150757,
+    "charDelay": 0.073,
+    "newLine": true,
+    "color": "red"
+  },
+  {
+    "lyric": "ako't hindi tulad ng iba",
+    "startTime": 5.820760107040405,
+    "charDelay": 0.075,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "Baby 'di 'to ",
+    "startTime": 7.929368734359741,
+    "charDelay": 0.070,
+    "newLine": true,
+    "color": "red"
+  },
+  {
+    "lyric": "love ",
+    "startTime": 8.816859245300293,
+    "charDelay": 0.090,
+    "newLine": false,
+    "color": "red"
+  },
+  {
+    "lyric": "story",
+    "startTime": 9.313170194625854,
+    "charDelay": 0.090,
+    "newLine": false,
+    "color": "red"
+  },
+  {
+    "lyric": "I'm ",
+    "startTime": 10.50,
+    "charDelay": 0.095,
+    "newLine": true,
+    "color": "red"
+  },
+  {
+    "lyric": "sorry",
+    "startTime": 11.00,
+    "charDelay": 0.095,
+    "newLine": false,
+    "color": "red"
+  },
+  {
+    "lyric": "Kung gusto mo",
+    "startTime": 12.00,
+    "charDelay": 0.070,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "maghanap ka ng ",
+    "startTime": 12.793052434921265,
+    "charDelay": 0.070,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "iba",
+    "startTime": 13.809756994247437,
+    "charDelay": 0.090,
+    "newLine": false,
+    "color": "black"
+  }
+]

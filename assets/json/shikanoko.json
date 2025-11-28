@@ -1,0 +1,86 @@
+[
+  {
+    "lyric": "shikanoko ",
+    "startTime": 0.0,
+    "charDelay": 0.07,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "nokonoko",
+    "startTime": 0.70,
+    "charDelay": 0.07,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "koshitantan",
+    "startTime": 1.30,
+    "charDelay": 0.07,
+    "newLine": true,
+    "color": "orange"
+  },
+  {
+    "lyric": "shikanoko ",
+    "startTime": 2.55,
+    "charDelay": 0.07,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "nokonoko",
+    "startTime": 3.30,
+    "charDelay": 0.07,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "koshitantan",
+    "startTime": 3.86,
+    "charDelay": 0.07,
+    "newLine": true,
+    "color": "orange"
+  },
+  {
+    "lyric": "shikanoko ",
+    "startTime": 5.15,
+    "charDelay": 0.07,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "nokonoko",
+    "startTime": 5.90,
+    "charDelay": 0.07,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "koshitantan",
+    "startTime": 6.53,
+    "charDelay": 0.07,
+    "newLine": true,
+    "color": "orange"
+  },
+  {
+    "lyric": "shikanoko ",
+    "startTime": 7.85,
+    "charDelay": 0.07,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "nokonoko",
+    "startTime": 8.55,
+    "charDelay": 0.07,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "koshitantan",
+    "startTime": 9.13,
+    "charDelay": 0.07,
+    "newLine": true,
+    "color": "orange"
+  }
+]

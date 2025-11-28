@@ -1,0 +1,121 @@
+[
+  {
+    "lyric": "Suki yo",
+    "startTime": 0.0,
+    "charDelay": 0.09,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "Ima anata ni",
+    "startTime": 0.9923076629638672,
+    "charDelay": 0.11,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "omoi ",
+    "startTime": 2.880147933959961,
+    "charDelay": 0.09,
+    "newLine": true,
+    "color": "red"
+  },
+  {
+    "lyric": "nosete",
+    "startTime": 3.676890277862549,
+    "charDelay": 0.09,
+    "newLine": false,
+    "color": "red"
+  },
+  {
+    "lyric": "Hora, ",
+    "startTime": 4.8688966274261475,
+    "charDelay": 0.10,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "sunao ni",
+    "startTime": 5.856818914413452,
+    "charDelay": 0.11,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "naru ",
+    "startTime": 7.249434947967529,
+    "charDelay": 0.11,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "no watashi",
+    "startTime": 8.10,
+    "charDelay": 0.09,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "Kono saki ",
+    "startTime": 9.569412469863892,
+    "charDelay": 0.09,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "motto",
+    "startTime": 10.70,
+    "charDelay": 0.12,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "soba ni ite mo",
+    "startTime": 11.937920570373535,
+    "charDelay": 0.11,
+    "newLine": true,
+    "color": "red"
+  },
+  {
+    "lyric": "ii ka na?",
+    "startTime": 13.74186954498291,
+    "charDelay": 0.11,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "Koi to ",
+    "startTime": 15.161859035491943,
+    "charDelay": 0.10,
+    "newLine": true,
+    "color": "red"
+  },
+  {
+    "lyric": "koi ga",
+    "startTime": 16.05,
+    "charDelay": 0.10,
+    "newLine": false,
+    "color": "red"
+  },
+  {
+    "lyric": "kasa",
+    "startTime": 16.87440962927246,
+    "charDelay": 0.09,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "natte",
+    "startTime": 17.553884983062744,
+    "charDelay": 0.12,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "Suki yo",
+    "startTime": 18.682809306549072,
+    "charDelay": 0.09,
+    "newLine": true,
+    "color": "red"
+  }
+]

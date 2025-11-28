@@ -1,0 +1,219 @@
+[
+  {
+    "lyric": "At ",
+    "startTime": 0.0,
+    "charDelay": 0.08,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "kung ",
+    "startTime": 0.3678412437438965,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "sa ",
+    "startTime": 0.8160474300384521,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "ba",
+    "startTime": 1.2401769161224365,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "wat",
+    "startTime": 1.6961252689361572,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "hig",
+    "startTime": 2.1038246154785156,
+    "charDelay": 0.08,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "pit ",
+    "startTime": 2.5515811443328857,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "ng ",
+    "startTime": 3.4242260456085205,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "a",
+    "startTime": 3.80,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "king",
+    "startTime": 4.20,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "pag",
+    "startTime": 4.720435619354248,
+    "charDelay": 0.08,
+    "newLine": true,
+    "color": "red"
+  },
+  {
+    "lyric": "da",
+    "startTime": 5.136134386062622,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "red"
+  },
+  {
+    "lyric": "ram",
+    "startTime": 5.5605432987213135,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "red"
+  },
+  {
+    "lyric": "dam",
+    "startTime": 6.008943557739258,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "red"
+  },
+  {
+    "lyric": "Ay ",
+    "startTime": 7.256551265716553,
+    "charDelay": 0.08,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "hin",
+    "startTime": 7.713359117507935,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "di ",
+    "startTime": 8.152742147445679,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "ka",
+    "startTime": 8.985120058059692,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "ma",
+    "startTime": 9.84061884880066,
+    "charDelay": 0.08,
+    "newLine": true,
+    "color": "red"
+  },
+  {
+    "lyric": "la",
+    "startTime": 10.72154426574707,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "red"
+  },
+  {
+    "lyric": "pi",
+    "startTime": 11.177757740020752,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "red"
+  },
+  {
+    "lyric": "tan",
+    "startTime": 12.010128736495972,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "red"
+  },
+  {
+    "lyric": "Ma",
+    "startTime": 13.633151292800903,
+    "charDelay": 0.08,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "ki",
+    "startTime": 14.105403423309326,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "ki",
+    "startTime": 14.50,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "u",
+    "startTime": 14.977333307266235,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "sap ",
+    "startTime": 15.30,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "na",
+    "startTime": 15.82511830329895,
+    "charDelay": 0.08,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "la",
+    "startTime": 16.305186986923218,
+    "charDelay": 0.10,
+    "newLine": true,
+    "color": "red"
+  },
+  {
+    "lyric": "aaa",
+    "startTime": 17.20,
+    "charDelay": 0.10,
+    "newLine": false,
+    "color": "red"
+  },
+  {
+    "lyric": "aaaaaaang",
+    "startTime": 18.0,
+    "charDelay": 0.15,
+    "newLine": false,
+    "color": "red"
+  }
+]

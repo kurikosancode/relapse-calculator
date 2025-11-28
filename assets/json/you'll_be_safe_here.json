@@ -1,0 +1,219 @@
+[
+  {
+    "lyric": "Close ",
+    "startTime": 0.0,
+    "charDelay": 0.065,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "your ",
+    "startTime": 0.36806726455688477,
+    "charDelay": 0.065,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "eyes",
+    "startTime": 0.7761623859405518,
+    "charDelay": 0.065,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "dry ",
+    "startTime": 3.120654821395874,
+    "charDelay": 0.065,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "your ",
+    "startTime": 3.5203943252563477,
+    "charDelay": 0.065,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "tears",
+    "startTime": 3.9123692512512207,
+    "charDelay": 0.065,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "'Cause ",
+    "startTime": 6.25,
+    "charDelay": 0.065,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "when ",
+    "startTime": 6.712800979614258,
+    "charDelay": 0.065,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "no",
+    "startTime": 7.121394157409668,
+    "charDelay": 0.065,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "thing",
+    "startTime": 7.513734817504883,
+    "charDelay": 0.065,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "seems ",
+    "startTime": 9.50,
+    "charDelay": 0.065,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "clear",
+    "startTime": 10.321144104003906,
+    "charDelay": 0.065,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "You'll ",
+    "startTime": 11.913534164428711,
+    "charDelay": 0.065,
+    "newLine": true,
+    "color": "red"
+  },
+  {
+    "lyric": "be ",
+    "startTime": 12.281086444854736,
+    "charDelay": 0.065,
+    "newLine": false,
+    "color": "red"
+  },
+  {
+    "lyric": "safe ",
+    "startTime": 12.857146978378296,
+    "charDelay": 0.065,
+    "newLine": false,
+    "color": "red"
+  },
+  {
+    "lyric": "here",
+    "startTime": 13.537222385406494,
+    "charDelay": 0.065,
+    "newLine": false,
+    "color": "red"
+  },
+  {
+    "lyric": "from ",
+    "startTime": 15.80,
+    "charDelay": 0.065,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "the ",
+    "startTime": 16.29026961326599,
+    "charDelay": 0.065,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "sheer ",
+    "startTime": 16.65787386894226,
+    "charDelay": 0.065,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "weight",
+    "startTime": 17.090609788894653,
+    "charDelay": 0.065,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "Of ",
+    "startTime": 19.10,
+    "charDelay": 0.065,
+    "newLine": true,
+    "color": "red"
+  },
+  {
+    "lyric": "your ",
+    "startTime": 19.507218837738037,
+    "charDelay": 0.065,
+    "newLine": false,
+    "color": "red"
+  },
+  {
+    "lyric": "doubts",
+    "startTime": 19.929906368255615,
+    "charDelay": 0.065,
+    "newLine": false,
+    "color": "red"
+  },
+  {
+    "lyric": "and ",
+    "startTime": 20.362321853637695,
+    "charDelay": 0.065,
+    "newLine": true,
+    "color": "red"
+  },
+  {
+    "lyric": "fears",
+    "startTime": 20.842283725738525,
+    "charDelay": 0.065,
+    "newLine": false,
+    "color": "red"
+  },
+  {
+    "lyric": "Weary ",
+    "startTime": 22.30,
+    "charDelay": 0.065,
+    "newLine": true,
+    "color": "black"
+  },
+  {
+    "lyric": "heart",
+    "startTime": 23.1141459941864,
+    "charDelay": 0.065,
+    "newLine": false,
+    "color": "black"
+  },
+  {
+    "lyric": "you'll ",
+    "startTime": 24.69058084487915,
+    "charDelay": 0.07,
+    "newLine": true,
+    "color": "red"
+  },
+  {
+    "lyric": "be ",
+    "startTime": 25.075464963912964,
+    "charDelay": 0.07,
+    "newLine": false,
+    "color": "red"
+  },
+  {
+    "lyric": "safe ",
+    "startTime": 25.73050546646118,
+    "charDelay": 0.07,
+    "newLine": false,
+    "color": "red"
+  },
+  {
+    "lyric": "here",
+    "startTime": 26.371479511260986,
+    "charDelay": 0.07,
+    "newLine": false,
+    "color": "red"
+  }
+]
