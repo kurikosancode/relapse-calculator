@@ -112,9 +112,13 @@ class LyricsManager {
   }
 
   void resetLyricsTimings() {
+    stopLyrics();
+    musicManager.stopSong();
+  }
+
+  void stopLyrics() {
     elapsedTime = 0;
     currentLyricIndex = 0;
-    ticker.stop(); // to stop checking the lyrics\
-    musicManager.stopSong();
+    ticker.stop();
   }
 }

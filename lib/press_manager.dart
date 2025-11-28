@@ -167,6 +167,7 @@ class PressManager {
   }
 
   void _handleClearText() {
+    lyricsManager.stopLyrics();
     displayManager.setColor(textColorForClear);
     displayManager.setDisplay(clearTextManager.currentClearText);
   }

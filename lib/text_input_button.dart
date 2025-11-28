@@ -12,7 +12,7 @@ class TextInputButton extends StatelessWidget {
       context: context,
       builder: (BuildContext context) {
         return AlertDialog(
-          title: const Text('Clear Message'),
+          title: const Text('Message'),
           content: TextField(
             controller: textController,
             decoration: const InputDecoration(hintText: 'Type here'),
@@ -22,14 +22,20 @@ class TextInputButton extends StatelessWidget {
               onPressed: () {
                 Navigator.of(context).pop(); // Close the dialog
               },
-              child: const Text('Cancel'),
+              child: const Text(
+                'Cancel',
+                style: TextStyle(color: Colors.black),
+              ),
             ),
             TextButton(
               onPressed: () {
                 submitFunction();
                 Navigator.of(context).pop();
               },
-              child: const Text('Submit'),
+              child: const Text(
+                'Submit',
+                style: TextStyle(color: Colors.black),
+              ),
             ),
           ],
         );
